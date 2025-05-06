@@ -1,0 +1,17 @@
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\bin\Debug\net9.0\CompanyExpenseTracking.Infrastructure.deps.json
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\bin\Debug\net9.0\CompanyExpenseTracking.Infrastructure.runtimeconfig.json
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\bin\Debug\net9.0\CompanyExpenseTracking.Infrastructure.dll
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\bin\Debug\net9.0\CompanyExpenseTracking.Infrastructure.pdb
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\bin\Debug\net9.0\CompanyExpenseTracking.Domain.dll
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\bin\Debug\net9.0\CompanyExpenseTracking.Domain.pdb
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\obj\Debug\net9.0\CompanyExpenseTracking.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\obj\Debug\net9.0\CompanyExpenseTracking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\obj\Debug\net9.0\CompanyExpenseTracking.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\obj\Debug\net9.0\CompanyExpenseTracking.Infrastructure.AssemblyInfo.cs
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\obj\Debug\net9.0\CompanyExpenseTracking.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\obj\Debug\net9.0\CompanyE.754CD6D7.Up2Date
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\obj\Debug\net9.0\CompanyExpenseTracking.Infrastructure.dll
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\obj\Debug\net9.0\refint\CompanyExpenseTracking.Infrastructure.dll
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\obj\Debug\net9.0\CompanyExpenseTracking.Infrastructure.pdb
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\obj\Debug\net9.0\CompanyExpenseTracking.Infrastructure.genruntimeconfig.cache
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\obj\Debug\net9.0\ref\CompanyExpenseTracking.Infrastructure.dll

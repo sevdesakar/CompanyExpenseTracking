@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fkRh2xlbHucPiIp87aTEPUh0QijEY7pPxm8FF2/hQiU=",
+  "Source": "CompanyExpenseTracking.API",
+  "BasePath": "_content/CompanyExpenseTracking.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
