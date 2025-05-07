@@ -1,15 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CompanyExpenseTracking.API",
-    "\\CompanyExpenseTracking.API\\bin",
-    "\\CompanyExpenseTracking.API\\obj",
-    "\\CompanyExpenseTracking.API\\obj\\Release",
-    "\\CompanyExpenseTracking.Application",
-    "\\CompanyExpenseTracking.Application\\obj",
-    "\\CompanyExpenseTracking.Infrastructure",
-    "\\CompanyExpenseTracking.Tests"
+    "\\CompanyExpenseTracking.Application"
   ],
-  "SelectedNode": "\\CompanyExpenseTracking.Tests\\CompanyExpenseTracking.Tests.csproj",
   "PreviewInSolutionExplorer": false
 }

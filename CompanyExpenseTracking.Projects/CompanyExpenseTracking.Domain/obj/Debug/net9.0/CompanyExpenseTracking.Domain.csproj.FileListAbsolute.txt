@@ -5,6 +5,7 @@ C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projec
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Domain\obj\Debug\net9.0\CompanyExpenseTracking.Domain.AssemblyInfoInputs.cache
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Domain\obj\Debug\net9.0\CompanyExpenseTracking.Domain.AssemblyInfo.cs
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Domain\obj\Debug\net9.0\CompanyExpenseTracking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Domain\obj\Debug\net9.0\CompanyExpenseTracking.Domain.sourcelink.json
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Domain\obj\Debug\net9.0\CompanyExpenseTracking.Domain.dll
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Domain\obj\Debug\net9.0\refint\CompanyExpenseTracking.Domain.dll
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Domain\obj\Debug\net9.0\CompanyExpenseTracking.Domain.pdb

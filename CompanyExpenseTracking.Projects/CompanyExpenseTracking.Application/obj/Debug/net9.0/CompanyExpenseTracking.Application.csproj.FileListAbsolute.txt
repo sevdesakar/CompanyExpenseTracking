@@ -8,6 +8,7 @@ C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projec
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Application\obj\Debug\net9.0\CompanyExpenseTracking.Application.AssemblyInfoInputs.cache
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Application\obj\Debug\net9.0\CompanyExpenseTracking.Application.AssemblyInfo.cs
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Application\obj\Debug\net9.0\CompanyExpenseTracking.Application.csproj.CoreCompileInputs.cache
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Application\obj\Debug\net9.0\CompanyExpenseTracking.Application.sourcelink.json
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Application\obj\Debug\net9.0\CompanyE.43BE56AF.Up2Date
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Application\obj\Debug\net9.0\CompanyExpenseTracking.Application.dll
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Application\obj\Debug\net9.0\refint\CompanyExpenseTracking.Application.dll

@@ -9,6 +9,7 @@ C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projec
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\obj\Debug\net9.0\CompanyExpenseTracking.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\obj\Debug\net9.0\CompanyExpenseTracking.Infrastructure.AssemblyInfo.cs
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\obj\Debug\net9.0\CompanyExpenseTracking.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\obj\Debug\net9.0\CompanyExpenseTracking.Infrastructure.sourcelink.json
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\obj\Debug\net9.0\CompanyE.754CD6D7.Up2Date
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\obj\Debug\net9.0\CompanyExpenseTracking.Infrastructure.dll
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Infrastructure\obj\Debug\net9.0\refint\CompanyExpenseTracking.Infrastructure.dll

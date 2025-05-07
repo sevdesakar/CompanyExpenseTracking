@@ -1,0 +1,10 @@
+.vs/CompanyExpenseTracking.Projects/CopilotIndices/17.13.439.2385/CodeChunks.db
+.vs/CompanyExpenseTracking.Projects/CopilotIndices/17.13.439.2385/SemanticSymbols.db
+.vs/CompanyExpenseTracking.Projects/FileContentIndex/507fe748-bd00-4fa9-a3bc-7e618b29f632.vsidx
+.vs/CompanyExpenseTracking.Projects/FileContentIndex/8480f401-6492-4a4a-aa02-7f61085f00a3.vsidx
+.vs/CompanyExpenseTracking.Projects/FileContentIndex/b604b93c-f7f7-4fc8-891b-1c79a025fe9b.vsidx
+.vs/CompanyExpenseTracking.Projects/v17/.wsuo
+.vs/CompanyExpenseTracking.Projects/v17/DocumentLayout.backup.json
+.vs/CompanyExpenseTracking.Projects/v17/DocumentLayout.json
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite

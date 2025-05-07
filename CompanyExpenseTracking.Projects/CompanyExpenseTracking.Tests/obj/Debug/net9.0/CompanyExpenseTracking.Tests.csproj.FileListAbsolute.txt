@@ -329,3 +329,7 @@ C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projec
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Tests\bin\Debug\net9.0\CompanyExpenseTracking.Infrastructure.dll
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Tests\bin\Debug\net9.0\CompanyExpenseTracking.API.pdb
 C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Tests\bin\Debug\net9.0\CompanyExpenseTracking.Infrastructure.pdb
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Tests\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Tests\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Tests\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Sevde\source\repos\CompanyExpenseTracking\CompanyExpenseTracking.Projects\CompanyExpenseTracking.Tests\obj\Debug\net9.0\CompanyExpenseTracking.Tests.sourcelink.json

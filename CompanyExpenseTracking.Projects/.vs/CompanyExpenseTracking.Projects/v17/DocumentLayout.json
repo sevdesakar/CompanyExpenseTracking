@@ -26,8 +26,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,7 +44,7 @@
               "RelativeDocumentMoniker": "CompanyExpenseTracking.Tests\\CompanyExpenseTracking.Tests.csproj",
               "ToolTip": "C:\\Users\\Sevde\\source\\repos\\CompanyExpenseTracking\\CompanyExpenseTracking.Projects\\CompanyExpenseTracking.Tests\\CompanyExpenseTracking.Tests.csproj",
               "RelativeToolTip": "CompanyExpenseTracking.Tests\\CompanyExpenseTracking.Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-05T21:53:13.861Z",
               "EditorCaption": ""
@@ -51,8 +59,7 @@
               "RelativeToolTip": "CompanyExpenseTracking.Infrastructure\\CompanyExpenseTracking.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-05T21:53:01.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T21:53:01.756Z"
             },
             {
               "$type": "Document",
@@ -64,16 +71,7 @@
               "RelativeToolTip": "CompanyExpenseTracking.API\\CompanyExpenseTracking.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-05T21:52:51.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-05-05T21:52:51.686Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "CompanyExpenseTracking.Application\\CompanyExpenseTracking.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-05T21:51:54.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T21:51:54.501Z"
             }
           ]
         }
